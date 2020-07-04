@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+Shift:wq🤪→需求→杠杆→反馈
+                  
+### 一、我收藏的导航页🧐
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86" src="//music.163.com/outchain/player?type=2&amp;id=26237342&amp;auto=1&amp;height=66"></iframe>
 
-You can use the [editor on GitHub](https://github.com/gotcha6/gotcha6.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  - [狼牌工作网址导航](https://www.volf.club)
+  
+  - [设计师网址导航](https://webstack.cc/cn/index.html)
+  
+  - [码灵程序员网址导航](https://nav.code-elf.cn/#A22)
+  
+  - [创意探手导航](http://tans119.com)
+  
+  - [创造狮导航](http://chuangzaoshi.com/geek)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  
+### 二、我的工具箱
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### bbr加速：
 
-```markdown
-Syntax highlighted code block
+```wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh```
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### 显卡驱动一键脚本：(驱动显卡的神器,黑苹果玩家的必备)
+​
+```bash <(curl -s https://raw.githubusercontent.com/vulgo/webdriver.sh/v1.5.8/get)```
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### twitter管理：
 
-### Jekyll Themes
+[Twitter DELETE](http://tweetdelete.net) 一键删除所有twitter消息，或是定期清除旧推，经测试可用。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gotcha6/gotcha6.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 一键脚本合集工具箱，集合25+优质开源项目：
+  
+```bash <(curl -L -s https://raw.githubusercontent.com/Baiyuetribe/baiyue_onekey/master/go.sh)```
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
